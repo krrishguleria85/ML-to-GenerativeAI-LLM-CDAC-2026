@@ -1,5 +1,5 @@
 # ML-to-GenerativeAI-LLM-CDAC-2026
-From Training to developing a full fledged AI project!!
+From Training to developing an AI project!!
 
 This repository contains my 45-day CDAC training journey on:
 
