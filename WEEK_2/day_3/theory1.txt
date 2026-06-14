@@ -1,0 +1,1 @@
+Studied the theory of these algorithms i.e., SVM, decision tree, random forest, KNN, Naive Bayes and its workflows 
