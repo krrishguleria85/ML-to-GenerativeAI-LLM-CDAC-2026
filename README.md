@@ -19,6 +19,4 @@ This repository contains my 45-day CDAC training journey on:
 - WEEK_5 : Project Development
 - WEEK_6 : Final Project
 
-## Final Project
-
-AI Study Assistant using RAG and LLMs
+## Final Project - TBD
