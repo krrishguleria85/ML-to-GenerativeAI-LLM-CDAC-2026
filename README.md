@@ -19,4 +19,4 @@ This repository contains my 45-day CDAC training journey on:
 - WEEK_5 : Project Development and some mini projects
 - WEEK_6 : Final Project
 
-## Final Project - LOW LIGHT ENHANCEMENT WITH DIFFUSION BASED LEARNING
+## Final Project - LOW LIGHT ENHANCEMENT WITH DIFFUSION BASED DEEP LEARNING
